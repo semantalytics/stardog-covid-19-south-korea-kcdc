@@ -1,0 +1,12 @@
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+<case/{case_id}>
+    a :Case;
+    :province "{province}";
+    :city "{city}";
+    :group "{group}";
+    :infectionCase "{infection_case}";
+    :confirmed "{confirmed}";
+    geo:lat "{latitude}";
+    geo:long "{longitude}";
+.

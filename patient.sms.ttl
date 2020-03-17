@@ -1,0 +1,17 @@
+<patient/{patient_id}>
+    a :Patient;
+    :sex "{sex}";
+    :birthYear "{birth_year}";
+    :country "{country}";
+    :region "{region}";
+    :disease "{disease}";
+    :group "{group}";
+    :infectionReason "{infection_reason}";
+    :infectionOrder "{infection_order}";
+    :infectedBy <patient/{infected_by}>;
+    :contactNumber "{contact_number}";
+    :confirmedDate "{confirmed_date}";
+    :releasedDate "{released_date}";
+    :deceasedDate "{deceased_date}";
+    :state "{state}";
+.

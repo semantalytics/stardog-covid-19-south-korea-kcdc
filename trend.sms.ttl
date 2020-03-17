@@ -1,0 +1,7 @@
+[]
+    :date "{date}";
+    :cold "{cold}";
+    :flu "{flu}";
+    :pneumonia "{pneumonia}";
+    :coronavirus "{coronavirus}";
+.

@@ -1,0 +1,11 @@
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+:{patient_id}
+    a :Patient;
+    :date "{date}";
+    :province "{provinice}";
+    :city "{city}";
+    :visit "{visit}";
+    geo:lat "{latitude}";
+    geo:long "{longitude}";
+.

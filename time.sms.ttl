@@ -1,0 +1,26 @@
+[]
+    :date "{date}";
+    :time "{time}";
+    :test "{test}";
+    :negative "{negative}";
+    :confirmed "{confirmed}";
+    :released "{released}";
+    :deceased "{deceased}";
+    :Seoul "{Seoul}";
+    :Busan "{Busan}";
+    :Daegu "{Daegu}";
+    :Incheon "{Incheon}";
+    :Gwangju "{Gwangju}";
+    :Daejeon "{Daejeon}";
+    :Ulsan "{Ulsan}";
+    :Sejong "{Sejong}";
+    :Gyeonggi_do "{Gyeonggi_do}";
+    :Gangwon_do "{Gangwon_do}";
+    :Chungcheongbuk_do "{Chungcheongbuk_do}";
+    :Chungcheongnam_do "{Chungcheongnam_do}";
+    :Jeollabuk_do "{Jeollabuk_do}";
+    :Jeollanam_do "{Jeollanam_do}";
+    :Gyeongsangbuk_do "{Gyeongsangbuk_do}";
+    :Gyeongsangnam_do "{Gyeongsangnam_do}";
+    :Jeju_do "{Jeju_do}";
+.
